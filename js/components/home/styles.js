@@ -12,7 +12,7 @@ export default{
   roundedButton: {
     alignSelf: 'center',
     marginTop: 40,
-    backgroundColor: '#00c497',
+    backgroundColor: '#00b8d4',
     borderRadius: 90,
     width: 65,
     height: 65,

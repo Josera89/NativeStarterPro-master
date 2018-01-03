@@ -21,7 +21,7 @@ export default {
   bg: {
     flex: 1,
     marginTop: deviceHeight / 2 - 15,
-    backgroundColor: '#00c497',
+    backgroundColor: '#00b8d4',
     paddingTop: 10,
     paddingLeft: 20,
     paddingRight: 20,

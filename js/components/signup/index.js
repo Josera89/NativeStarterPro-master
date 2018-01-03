@@ -173,7 +173,7 @@ class SignUp extends Component { // eslint-disable-line
                 rounded
                 block
                 style={{ backgroundColor: '#fff', marginTop: 20 }}
-                textStyle={{ color: '#00c497' }}
+                textStyle={{ color: '#00b8d4' }}
                 onPress={() => SignUpViewStore.submit()}
               >
                 {!SignUpViewStore.isSubmitting ? <Text style={{ color: 'rgba(1,188,140,1)' }}>Save and Continue</Text> : <Spinner color={'rgba(1,188,140,1)'} />}

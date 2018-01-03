@@ -49,10 +49,10 @@ module.exports = {
 
   footerHeight: 55,
   toolbarHeight: (Platform.OS === 'ios') ? 70 : 55,
-  toolbarDefaultBg: '#00c497',
+  toolbarDefaultBg: '#00b8d4',
   toolbarInverseBg: '#222',
 
-  tabBgColor: '#00c497',
+  tabBgColor: '#00b8d4',
   tabTextColor: '#fff',
 
   btnDisabledBg: '#b5b5b5',

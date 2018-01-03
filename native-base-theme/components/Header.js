@@ -290,7 +290,7 @@ export default (variables = variable) => {
       flexDirection: 'row',
       justifyContent: 'flex-end',
     },
-    backgroundColor: '#00CBA1',
+    backgroundColor: '#00b8d4',
     flexDirection: 'row',
     paddingHorizontal: 10,
     justifyContent: 'center',

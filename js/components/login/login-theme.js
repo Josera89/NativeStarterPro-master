@@ -10,7 +10,7 @@ module.exports = {
   brandWarning: '#f0ad4e',
   brandSidebar: '#252932',
 
-  inverseTextColor: '#00c497',
+  inverseTextColor: '#00b8d4',
   textColor: '#fff',
 
   fontSizeBase: 15,
